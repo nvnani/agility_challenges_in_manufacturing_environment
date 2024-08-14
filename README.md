@@ -4,7 +4,8 @@
 1. Pick and place from moving conveyor
 2. High priority orders
 ```
-Demonstration: https://youtu.be/vY-SqHADYRU
+Demonstration: https://youtu.be/vY-SqHADYRU <br>
+Manuscript: https://shorturl.at/c7o57
 
 ![](conveyor_pick_up.png)
 ## Software Requirements
